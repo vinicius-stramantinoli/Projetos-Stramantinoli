@@ -1,0 +1,149 @@
+html, body{
+    width:100%;
+    height: 100%;
+    margin: 0px;
+}
+/*Login*/
+.login{
+    position: relative;
+    text-align: center;
+    margin-top:10%;
+    width: 40%;
+    left: 30%;
+    
+
+    
+}
+
+.adquiri-resgatar .adquiri-{
+    color:#3a8aec;
+    background: red;
+}
+/*-----------------------*/
+
+/*estilo CONTEUDO*/
+.conteudo{
+    width: 1175px;
+    margin: 0 auto;
+    height: auto; 
+    text-align:center;
+}
+
+.img-test{
+    width: 50px;
+    height: 50px;
+    margin:25px;
+}
+
+.esquerda{
+    margin-left: 115px;
+}
+
+.top-principal{
+    margin-top:10%
+}
+
+.top-padrao{
+    margin-top:100px;
+    
+}
+
+.abaixo{
+    margin-bottom: 100px;
+}
+
+.clear{
+    clear: both;
+}
+
+.iten-1{
+    position: relative;
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: ;
+    
+
+}
+.iten-2{
+    position: relative;
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: ;
+}
+.iten-3{
+    position: relative;
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: ;
+}
+.iten-4{
+    position: relative;
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: ;
+}
+.iten-5{
+    position: relative;
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: ;
+}
+.iten-6{
+    position: relative;
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: ;
+}
+
+
+/*-----------CONTEUDO----------------------*/
+
+
+.projects{
+    text-align: center;
+}
+
+
+/* RODAPE*/
+
+.rodape{
+    margin-top: 100px;
+}
+
+.footer-principal{
+    position: relative;
+    margin-top: 0 auto;
+   
+    width:100%;
+    height: 250px;
+      
+}
+
+.rodape-pjd{
+    background-color: #ebebeb;
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: #3a8aec;
+    
+}
+
+.footer-principal ul li{
+    display:inline-block;
+}
+
+.footer-principal a:link {
+    text-decoration: none;
+    color: inherit;
+}
+/*---------*/
+
+
+

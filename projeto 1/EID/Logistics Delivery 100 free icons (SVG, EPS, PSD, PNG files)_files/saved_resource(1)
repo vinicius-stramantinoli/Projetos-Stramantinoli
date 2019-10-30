@@ -1,0 +1,32 @@
+
+var ftGUID_3623387="4320AA772D00EE";
+var ftConfID_3623387="0";
+var ftParams_3623387="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=tpc.googlesyndication.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Ftpc.googlesyndication.com%2Fsafeframe%2F1-0-36%2Fhtml%2Fcontainer.html&ft_section=__41339112377900239591542964234544945932&cachebuster=500685.1231181448";
+var ftKeyword_3623387="";
+var ftCustom_3623387="";
+var ftSection_3623387="__41339112377900239591542964234544945932";
+var ftSegment_3623387="";
+var ftSegmentList_3623387=[];
+var ftRuleMatch_3623387="0";
+var ftTimestamp_3623387="1572399763";
+var ftGeoC2_3623387="br";
+var ftGeoState_3623387="sp";
+var ftGeoCity_3623387="barra bonita";
+var ftISP_3623387="silva silveira provedor de internet ltda";
+var ftSpeed_3623387="broadband";
+var ftDMA_3623387="-1";
+var ftLong_3623387="-48.5617";
+var ftLat_3623387="-22.4811";
+var ftPostal_3623387="17340-000";
+var ftTimeZone_3623387="-300";
+var ftMobileCarrier_3623387="";
+var ftImp3623387 = {};
+ftImp3623387.privacy = "x";
+ftImp3623387.guidAge = "0";
+ftImp3623387.impID = "32818AAF-C23A-168B-88AA-727C05FD97EC";
+ftImp3623387.duid = "FT:4320AA772D00EE";
+
+ftImp3623387.ft_tpplid = "";
+ftImp3623387.ft_c = {};
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/362/3623387/2525121/js/j-3623387-2525121.js" id="ftscript_m3623387" name="ftscript_m3623387"></scr'+'ipt>');
